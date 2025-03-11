@@ -1,0 +1,14 @@
+#praj{
+    color: rgb(215, 32, 32);
+    font-size:larger;
+    
+
+}
+.sachin{
+    color: orange;
+    border:solid 5px;
+    text-align: center;
+    background-color: black;
+    background-image: linear-gradient(toright,red purple grey);
+
+}
